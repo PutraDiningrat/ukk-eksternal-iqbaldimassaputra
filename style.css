@@ -193,6 +193,7 @@ textarea {
     border: 1px solid #5bbcff;
     display: block;
     margin: 10px auto;
+    padding: 10px;
 }
 
 button {
